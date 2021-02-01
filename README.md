@@ -22,3 +22,7 @@ I don't know if it is a design issue but it seems like flashing the Arduino Leon
 and requires some timing. 
 So, if you have any errors during the flashing process, unplug/replug the board, 
 try again or look on the internet for additional information.
+
+# Making connections
+![](resources/nes_leonardo_bb.png)
+This Fritzing diagram shows you how to connect the four NES female ports to the arduino leonardo.
